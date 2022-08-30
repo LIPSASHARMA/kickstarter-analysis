@@ -19,7 +19,7 @@ I could see that the number of successful theater shows was in the month of May 
 The failed shows gradually increased and then declined between July to September. Its the summer season and people prefer to go out so failed shows reduced. 
 
 ### Analysis of Outcomes Based on Goals
-The success and failed messages are inversely related. Whenever success outcome increases, failed outcome decreases and vice versa. 
+The success and failed shows are inversely related. Whenever success outcome increases, failed outcome decreases and vice versa. 
 
 
 ### Challenges and Difficulties Encountered
